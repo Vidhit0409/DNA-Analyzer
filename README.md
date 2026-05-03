@@ -23,3 +23,10 @@ T: 2
 G: 2
 C: 1
 GC Content: 42.85%
+
+
+
+## Advanced Features
+- Reverse complement generation
+- RNA transcription
+- Codon splitting
